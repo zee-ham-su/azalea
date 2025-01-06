@@ -11,7 +11,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16 items-center">
           <div className="flex items-center">
             <Heart className="h-8 w-8 text-rose-600" />
-            <span className="ml-2 text-2xl font-bold text-gray-900">Azalea</span>
+            <span className="ml-2 text-2xl font-bold text-gray-900">Azaleagit init</span>
           </div>
           
           <div className="hidden md:flex items-center space-x-8">
